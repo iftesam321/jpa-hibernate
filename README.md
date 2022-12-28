@@ -5,7 +5,7 @@ This project is a demonstration of how to use Spring Boot to perform CRUD operat
 # Prerequisites
 -Java 8 or higher \
 -Maven 3.5 or higher \
--An H2 database (included in the project) \
+-An H2 database (included in the project) 
 
 
 # Getting Started
